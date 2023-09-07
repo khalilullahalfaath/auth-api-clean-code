@@ -1,3 +1,4 @@
+```
 auth-api/ → Project Root.
 ├─ config/ → Configuration folder, used to configure node-pg-migrate for the testing database.
 ├─ migrations/ → Database migration files.
@@ -21,3 +22,4 @@ auth-api/ → Project Root.
 ├─ tests/ → Utilities needed for testing.
 ├─ .env → Environment variables.
 ├─ package.json → Project Manifest.
+```
